@@ -432,6 +432,7 @@ xml:
       </if>
     </where>
   </sql>
+  
   <sql id="listOrder">
     <if test="orderFields != null and orderFields.size > 0">
       ORDER BY
@@ -440,6 +441,7 @@ xml:
       </foreach>
     </if>
   </sql>
+
   <sql id="query">
     select
     <include refid="Base_Column_List" />
