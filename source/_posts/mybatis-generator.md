@@ -1,10 +1,10 @@
 ## mbg-plugins
 ### 1. 插件列表
-+ LoadPlugin:mapper.xml里面多个load方法
++ LoadPlugin:mapper.xml里面`<select id="load"></select>`
 + LombokPlugin：实体类里面支持lombok
-+ MapperSqlPlugin:mapper.xml里面<sql></sql>
++ MapperSqlPlugin:mapper.xml里面`<sql></sql>`
 + OverIsMergeablePlugin:是否覆盖已经存在的文件
-+ QueryPlugin：mapper.xml里面 <select id="query"></select>
++ QueryPlugin：mapper.xml里面 `<select id="query"></select>`
 
 ### 2.安装插件
 插件地址：https://github.com/gaoqiuling/mbg-plugins
@@ -432,7 +432,7 @@ xml:
       </if>
     </where>
   </sql>
-  
+
   <sql id="listOrder">
     <if test="orderFields != null and orderFields.size > 0">
       ORDER BY
