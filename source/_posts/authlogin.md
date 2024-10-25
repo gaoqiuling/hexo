@@ -1,7 +1,7 @@
 ---
 title: authlogin
 date: 2024-10-18 17:22:09
-tags:
+tags: authlogin
 ---
 
 使用electron+vite+vue开发了一款桌面小程序，调用接口是测试环境登录地址，会记录历史登录账号，展示如下：

@@ -1,7 +1,7 @@
 ---
 title: gensql
 date: 2023-01-06 15:00:51
-tags:
+tags: generate sql
 ---
 
 ## 自动生成sql小工具

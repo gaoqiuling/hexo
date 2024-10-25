@@ -1,7 +1,7 @@
 ---
 title: sentinel-dashboard使用apollo作为数据源demo
 date: 2021-03-26 14:56:58
-tags:
+tags: sentinel
 ---
 
 ## 1、搭建apollo

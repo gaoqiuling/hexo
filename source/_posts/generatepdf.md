@@ -1,7 +1,7 @@
 ---
 title: generatepdf
 date: 2023-02-21 15:29:04
-tags: pdf
+tags: generate pdf
 ---
 此为生成pdf demo,使用2种方式生成。
 一个是html转pdf。使用freemarker替换占位符和动态生成表格。

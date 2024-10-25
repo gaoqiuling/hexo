@@ -1,7 +1,7 @@
 ---
 title: electron
 date: 2020-12-28 15:00:51
-tags:
+tags: electron
 ---
 
 ## 简单编辑文字桌面应用

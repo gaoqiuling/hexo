@@ -1,3 +1,9 @@
+---
+title: mybatis-generate
+date: 2023-01-29 11:13:55
+tags: mybatis generate
+---
+
 ## mbg-plugins
 ### 1. 插件列表
 + LoadPlugin:mapper.xml里面`<select id="load"></select>`
